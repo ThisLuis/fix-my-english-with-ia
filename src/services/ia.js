@@ -1,4 +1,4 @@
-import cohere from 'cohere.-ai'
+import cohere from 'cohere-ai'
 
 cohere.init('HGC9fmSVWJwBb9qvu3ivOLZNeoFNxxIaEZzbeZng');
 

@@ -1,0 +1,3 @@
+En Astro los componentes por defecto son estaticos (Svelte, React)
+Para que dejen de ser estaticos tenemos que decirle cuando se tienen que cargar
+<ButtonSubmit client:visible> // con esto le indicamos que es interactivo
